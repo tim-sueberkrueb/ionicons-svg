@@ -1,6 +1,6 @@
 # Ionicons SVG
 This repository holds the Ionicons SVG images only.
-See (https://github.com/driftyco/ionicons)[https://github.com/driftyco/ionicons] for the originial code.
+See [https://github.com/driftyco/ionicons](https://github.com/driftyco/ionicons) for the originial code.
 
 ## About Ionicons
 
